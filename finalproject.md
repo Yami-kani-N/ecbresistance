@@ -15,5 +15,5 @@
 The runfinal.sh has the batch job commands for the maftt and the iqtree scripts. The scipts are found in ecbresistance/scripts. The R script  produce a simple tree when run in R in VSCode. I have been having troouble to load some packages which prevented me from spending more time on it for better visualisation. For future jobs i would like to create my trees with bootsraps and more details.
 
 - The runfinal.sh file has the two batch commands to rerun the mafft and iqtree scripts. The R script will be pasted in the R to be run since the commands were run in R extention.
-- Ignore tree.R because that the file you sent me to learn from. 
+- Ignore tree.R because that the file you sent me to learn from. Ignore proposal.md in scripts 
 
