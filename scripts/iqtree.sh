@@ -5,6 +5,10 @@
 
 set -euo pipefail
 
+#Use this only when conda is not activated-------------
+#Iqtree
+#conda create -y -n iqtree -c bioconda iqtree 
+
 #load iqtree 2.3.3 Conda environment
 module load miniconda3/23.3.1-py310
 conda activate iqtree
