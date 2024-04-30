@@ -9,7 +9,7 @@
 # Methods and file location 
 - To achieve the above goals, I will download the ABCC2 gene fastq from the NBIC gene bank for each of the species I used. I created a mafft script to align the data set. I then used iqtree to create the tree after alignment. For a better visualization of the tree. I used R to edit the visuals of the tree. 
 
- The raw data is loctaed in ecbresistance/fastq/
+ - The raw data is loctaed in ecbresistance/fastq/
 
 - The scripts are located in ecbresistance/scripts.  mafft.sh, iqtree.sh and R scripts.
 The runfinal.sh has the batch job commands for the maftt and the iqtree scripts. The scipts are found in ecbresistance/scripts. The R script  produce a simple tree when run in R in VSCode. I have been having troouble to load some packages which prevented me from spending more time on it for better visualisation. For future jobs i would like to create my trees with bootsraps and more details.
